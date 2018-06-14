@@ -1,4 +1,4 @@
-# Simple NodeJS React NPM APP
+# Simple NodeJS React NPM APP 👍
 
 This repository is for the
 [Build a Node.js and React app with npm](https://jenkins.io/doc/tutorials/build-a-node-js-and-react-app-with-npm/)
